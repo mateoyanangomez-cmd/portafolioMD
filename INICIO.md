@@ -2,7 +2,7 @@
 
 ## Portafolio difital de la Unidad 1
 
-### Universidad NAcional de Loja
+### Universidad Nacional de Loja
 
 ### Carrera de computación 
 
